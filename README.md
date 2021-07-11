@@ -1,16 +1,16 @@
 
 
 <h1 align="center">
-  LocalTips
+  LocalTips Backend
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/feliperucunha/localtips-ufpa?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/feliperucunha/localtips-backend?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/feliperucunha/localtips-ufpa">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/feliperucunha/localtips-backend">
   
   <a href="https://github.com/feliperucunha/happy/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/feliperucunha/localtips-ufpa">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/feliperucunha/localtips-backend">
   </a>
 
 </p>
@@ -40,14 +40,11 @@ LocalTips - é uma plataforma que permite a marcação de pontos de interesse na
 
 ## Como utilizar
 
-- Entre na pasta backend e digite:
+- Na pasta raiz digite:
   - yarn
   - yarn dev
-- Entre na pasta frontend e digite:
-  - yarn
-  - yarn start
-- Para rodar as migrações:
-  - yarn typeorm migration:run
+- Caso altere alguma migração, digite:
+  - yarn typeorm migrate:run
 
 
 ## ⚙️ Funcionalidades
