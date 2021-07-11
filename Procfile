@@ -1,1 +1,1 @@
-web:yarn run ts-node ./src/server.ts
+web:yarn start
