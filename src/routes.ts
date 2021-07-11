@@ -19,7 +19,7 @@ routes.get('/', (request, response) => {
     "route params": request.params,
     "body": request.body,
   };
-
+console.log({log});
   return response.status(418).json({
     message: "REST API: OK",
     respose: log,
