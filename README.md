@@ -8,7 +8,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/feliperucunha/localtips-backend?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/feliperucunha/localtips-backend">
-  
+
   <a href="https://github.com/feliperucunha/happy/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/feliperucunha/localtips-backend">
   </a>
@@ -20,7 +20,7 @@
 </h4>
 
 <h4 align="center">
-	<a href="#">Demo em breve</a>
+	<a href="https://localtips.herokuapp.com">Demo aqui</a>
 </h4>
 
 Tabela de conteúdos
@@ -44,7 +44,7 @@ LocalTips - é uma plataforma que permite a marcação de pontos de interesse na
   - yarn
   - yarn dev
 - Caso altere alguma migração, digite:
-  - yarn typeorm migrate:run
+  - yarn typeorm migration:run
 
 
 ## ⚙️ Funcionalidades
