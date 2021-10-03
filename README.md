@@ -20,7 +20,7 @@
 </h4>
 
 <h4 align="center">
-	<a href="https://localtips.herokuapp.com">Demo aqui</a>
+	<a href="https://localtips.herokuapp.com">Demo da API</a>
 </h4>
 
 Tabela de conteúdos
